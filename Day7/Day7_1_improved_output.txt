@@ -1,0 +1,4 @@
+C:\Users\Ambroz\miniconda3\envs\FIS_PodatkovnaZnanost\python.exe C:\Users\Ambroz\PycharmProjects\FIS_PodatkovnaZnanost\venv\AdventOfCode\Day7\Day7_1_improved.py 
+Sum of total sizes of dirs with a total size of at most 100000 is: 1348005
+
+Process finished with exit code 0

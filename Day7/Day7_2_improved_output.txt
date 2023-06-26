@@ -1,0 +1,4 @@
+C:\Users\Ambroz\miniconda3\envs\FIS_PodatkovnaZnanost\python.exe C:\Users\Ambroz\PycharmProjects\FIS_PodatkovnaZnanost\venv\AdventOfCode\Day7\Day7_2_improved.py 
+Need to delete dir with size 12785886
+
+Process finished with exit code 0

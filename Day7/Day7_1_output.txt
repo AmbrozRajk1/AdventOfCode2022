@@ -1,0 +1,712 @@
+C:\Users\Ambroz\miniconda3\envs\FIS_PodatkovnaZnanost\python.exe C:\Users\Ambroz\PycharmProjects\FIS_PodatkovnaZnanost\venv\AdventOfCode\Day7\Day7_1.py 
+- / (dir)
+	- hdwsmn (dir)
+		- mrrqnc (dir)
+			- rwhw (file, size=227398)
+		- qst (dir)
+			- bblss.hnl (file, size=152795)
+			- lvs (dir)
+				- jwvtjgjb.sss (file, size=81813)
+		- rlfgcqz (dir)
+			- hlltch (dir)
+				- rtgdsbz.qlg (file, size=219753)
+			- jqpnnmwc (dir)
+				- dmvchsd.ncw (file, size=164333)
+				- njsfs.pmd (file, size=141721)
+				- rlfgcqz_1 (dir)
+					- vhh.jtr (file, size=278398)
+					- wfnpcnr (dir)
+						- njsfs (dir)
+							- twfg.gzb (file, size=46895)
+	- lmlsvqsw (dir)
+		- bblss (file, size=81577)
+		- dlghs.dcz (file, size=12519)
+		- gphgq.ztw (file, size=260260)
+		- qgbg (file, size=6570)
+		- twfg.gzb (file, size=61210)
+		- mldg (dir)
+			- bgddpvj.cgb (file, size=152240)
+			- rlfgcqz (dir)
+				- qwhmdlf (file, size=112649)
+				- dbvjfgff (dir)
+					- rlfgcqz_2 (dir)
+						- wmclvlvq.fbf (file, size=278899)
+				- dnnd (dir)
+					- zhqjt.dwq (file, size=17486)
+				- wcqpzpp (dir)
+					- cvqtfn (file, size=195207)
+	- rlfgcqz (dir)
+		- gbwqg (file, size=63895)
+		- lllv.jpl (file, size=35085)
+		- nhrbwg.dcf (file, size=155195)
+		- wsh.sps (file, size=84099)
+	- sjq (dir)
+		- dmvchsd.ncw (file, size=48652)
+	- tpnspw (dir)
+		- ftjrpmr.mfd (file, size=81312)
+		- rwglhrm (file, size=263168)
+		- twfg.gzb (file, size=192446)
+		- gcwq (dir)
+			- bblss (dir)
+				- qgbg.tcm (file, size=120988)
+				- tbvgfdnc.cvl (file, size=326021)
+			- hlmm (dir)
+				- dmvchsd.ncw (file, size=287707)
+				- gpvfhpnr.jjl (file, size=319996)
+		- lvvztw (dir)
+			- ftjrpmr.mfd (file, size=155345)
+			- qwhmdlf (file, size=112094)
+			- vnmtgsq.gcj (file, size=9917)
+			- bdsvzhbm (dir)
+				- jmmltt (dir)
+					- zsp.dcc (file, size=130686)
+				- zgcjl (dir)
+					- dmvchsd.ncw (file, size=318547)
+		- msrdg (dir)
+			- wjp (dir)
+				- bjccpf (file, size=301898)
+				- mcnqbl.bwn (file, size=97684)
+				- qwhmdlf (file, size=160132)
+				- twfg.gzb (file, size=315893)
+		- ncgljn (dir)
+			- gdc.mrs (file, size=119737)
+			- ggljwvgj.blh (file, size=196706)
+			- mlgnvbhj.gbw (file, size=162440)
+			- qwqlfwfw.mfj (file, size=163186)
+			- twfg.gzb (file, size=167447)
+			- bblss (dir)
+				- nlmbnm (file, size=137986)
+				- zhqjt.dwq (file, size=229544)
+				- bblss_3 (dir)
+					- wcqpzpp.mmr (file, size=186733)
+				- njsfs (dir)
+					- tjbrtt (dir)
+						- rlfgcqz.ltq (file, size=284955)
+				- qgbg (dir)
+					- ftjrpmr.mfd (file, size=15196)
+					- ghlm.wlm (file, size=236891)
+					- qgbg (file, size=156863)
+					- dmcmw (dir)
+						- dhzhmj.qpw (file, size=116526)
+						- dmvchsd.ncw (file, size=251858)
+						- njsfs.zvm (file, size=148820)
+						- twfg.gzb (file, size=290169)
+						- wcqpzpp.vsd (file, size=186117)
+						- ffqghmp (dir)
+							- wcqpzpp (dir)
+								- rfmsdjr (dir)
+									- psmg.ldm (file, size=291669)
+						- njsfs (dir)
+							- dmvchsd.ncw (file, size=35762)
+							- njsfs (file, size=97427)
+							- twfg.gzb (file, size=261675)
+							- wcqpzpp (file, size=15426)
+							- zvnjrnrw (dir)
+								- dmvchsd.ncw (file, size=18370)
+								- wsgd.fjt (file, size=10620)
+					- gbpqj (dir)
+						- fdlpjd.tgr (file, size=10204)
+						- rlfgcqz (file, size=117954)
+					- wfvqv (dir)
+						- twfg.gzb (file, size=133485)
+						- fsq (dir)
+							- qwhmdlf (file, size=156862)
+		- njsfs (dir)
+			- nrffnj (file, size=224200)
+			- bblss (dir)
+				- hmp (file, size=280202)
+				- ndnr.wjh (file, size=66351)
+				- qhrhjb (file, size=85218)
+				- dhmwcmf (dir)
+					- qtdf (dir)
+						- fmbsgvr (dir)
+							- jdtcd.qhw (file, size=1641)
+							- qwhmdlf (file, size=109819)
+					- scsllc (dir)
+						- rlfgcqz.pcj (file, size=81391)
+						- rlfgcqz.rnf (file, size=192835)
+						- brthfcm (dir)
+							- qwhmdlf (file, size=135591)
+						- qqgh (dir)
+							- djjq (file, size=270614)
+							- njsfs_4 (dir)
+								- fngbfvr (file, size=18629)
+				- tcqnf (dir)
+					- gvqjrdlr.fps (file, size=25594)
+					- rlfgcqz.ndb (file, size=314758)
+					- wcqpzpp.gvz (file, size=269846)
+				- wjv (dir)
+					- pjzgwggg.hpc (file, size=95552)
+					- rlfgcqz (file, size=29427)
+					- dtddhqbj (dir)
+						- ftjrpmr.mfd (file, size=36982)
+						- fmzhtfd (dir)
+							- rttdhnnm (file, size=226561)
+							- tsfcpzzv (file, size=220713)
+							- psqnghl (dir)
+								- qwhmdlf (file, size=136028)
+								- rlfgcqz.nzf (file, size=280539)
+								- zhqjt.dwq (file, size=129468)
+								- zlb (dir)
+									- qgbg (dir)
+										- ftjrpmr.mfd (file, size=188576)
+						- gqsg (dir)
+							- dmvchsd.ncw (file, size=302134)
+							- drzt.pmq (file, size=161569)
+						- wcqpzpp (dir)
+							- bblss.sqp (file, size=254804)
+							- dbvw.mdw (file, size=280941)
+							- njsfs.wpr (file, size=317925)
+							- gfs (dir)
+								- njsfs.bmd (file, size=233927)
+								- twfg.gzb (file, size=45942)
+								- vbtr.wvj (file, size=125290)
+								- jrctzlg (dir)
+									- qwhmdlf (file, size=88635)
+									- vlnwcv (file, size=204938)
+								- lrnzq (dir)
+									- bblss.ddj (file, size=253736)
+									- vsrvgsc.cwl (file, size=272769)
+								- wcqpzpp_5 (dir)
+									- ftjrpmr.mfd (file, size=301739)
+									- qwhmdlf (file, size=63733)
+							- qgbg (dir)
+								- hgj (file, size=196886)
+								- lqvq (file, size=188348)
+								- twfg.gzb (file, size=132024)
+								- zhqjt.dwq (file, size=213866)
+								- cpr (dir)
+									- zhqjt.dwq (file, size=115532)
+									- wznlzpzj (dir)
+										- bcwnrc (dir)
+											- dmvchsd.ncw (file, size=289013)
+					- njsfs_6 (dir)
+						- mpprqbgc (file, size=296178)
+						- zhqjt.dwq (file, size=128104)
+					- pgfrd (dir)
+						- slgztr (dir)
+							- twfg.gzb (file, size=243751)
+							- htjd (dir)
+								- ftjrpmr.mfd (file, size=216650)
+							- rlfgcqz (dir)
+								- qwchd.qtn (file, size=144834)
+							- wcqpzpp (dir)
+								- qwhmdlf (file, size=133476)
+					- shhzzrf (dir)
+						- hbp (dir)
+							- fbwsrbbg (file, size=158562)
+							- zph.mbd (file, size=297036)
+						- jqfhdn (dir)
+							- bblss.sgd (file, size=166463)
+							- dmq (file, size=125240)
+							- ftjrpmr.mfd (file, size=48389)
+							- njsfs_7 (dir)
+								- zhqjt.dwq (file, size=307427)
+								- tbjp (dir)
+									- rcfv.bgh (file, size=76200)
+							- rlfgcqz (dir)
+								- bblss.vwj (file, size=294331)
+						- qgbg (dir)
+							- qnpdnjdl (dir)
+								- sblj (dir)
+									- twfg.gzb (file, size=39051)
+									- zhqjt.dwq (file, size=2405)
+							- rdmj (dir)
+								- zhqjt.dwq (file, size=213965)
+						- tftrnfpd (dir)
+							- chbgd.vjv (file, size=294450)
+							- hvwbj (file, size=318594)
+							- twfg.gzb (file, size=96252)
+							- nznzzw (dir)
+								- nndbd.rhl (file, size=115971)
+							- vlfdtwj (dir)
+								- ddvqzlh.cpw (file, size=167648)
+							- vsvj (dir)
+								- njsfs.zsh (file, size=110196)
+								- qrgnw.mhw (file, size=257204)
+								- zhqjt.dwq (file, size=131871)
+								- dfzcrmt (dir)
+									- rsd (file, size=11874)
+									- zhqjt.dwq (file, size=252800)
+									- hqbthjc (dir)
+										- bblss.clm (file, size=135533)
+										- rlfgcqz.zfh (file, size=231343)
+										- rrzqhdp (file, size=176061)
+									- hztrwjr (dir)
+										- zmpm (dir)
+											- rpb (file, size=297930)
+								- ffpvbczr (dir)
+									- qdvppt (dir)
+										- bblss.lnl (file, size=323419)
+									- qgbg (dir)
+										- dmvchsd.ncw (file, size=158408)
+								- rptmp (dir)
+									- rqlbtpw (file, size=280342)
+							- wvnjtmt (dir)
+								- fgc.ftp (file, size=249330)
+								- bblss_8 (dir)
+									- zhqjt.dwq (file, size=1570)
+								- gtbbfzzn (dir)
+									- lmbrdhc.jbz (file, size=65850)
+								- wcqpzpp (dir)
+									- qwhmdlf (file, size=62362)
+							- zlj (dir)
+								- lrhflmsw.qhq (file, size=103758)
+								- qwhmdlf (file, size=163919)
+							- zwqff (dir)
+								- ghfc (dir)
+									- hpcgrvms (file, size=131979)
+								- njsfs_9 (dir)
+									- wcqpzpp (file, size=126387)
+						- zppjlf (dir)
+							- rlfgcqz.ctz (file, size=241176)
+				- zwlpqrb (dir)
+					- bblss.gpv (file, size=272627)
+					- blczb.srs (file, size=261635)
+					- njsfs (file, size=153210)
+					- twfg.gzb (file, size=55633)
+					- lnhzzl (dir)
+						- dtwcsvzf (dir)
+							- dtz.rpc (file, size=74858)
+			- bzlpqv (dir)
+				- gdqhdd (file, size=157801)
+				- nmq (file, size=318418)
+				- qwhmdlf (file, size=266938)
+			- cvm (dir)
+				- dmvchsd.ncw (file, size=1145)
+				- ftjrpmr.mfd (file, size=233344)
+				- njsfs.hvb (file, size=263393)
+				- twfg.gzb (file, size=74436)
+				- whq (file, size=96596)
+				- wcqpzpp (dir)
+					- rlfgcqz (dir)
+						- gspw (file, size=244048)
+						- qgbg.wrf (file, size=324759)
+						- qwhmdlf (file, size=190410)
+			- dbbngm (dir)
+				- bcfzt.grj (file, size=184222)
+				- sshb.nzv (file, size=41851)
+				- wgjc.mrr (file, size=113784)
+				- zhqjt.dwq (file, size=13594)
+				- bblss (dir)
+					- qwhmdlf (file, size=102201)
+				- rlfgcqz (dir)
+					- bblss.msn (file, size=91063)
+					- dqhbnt (file, size=2918)
+					- nbprqmbs.jwj (file, size=74771)
+			- gbtmsjgl (dir)
+				- cnfpq.wbl (file, size=207664)
+		- ptncs (dir)
+			- jss.jsh (file, size=321627)
+			- lfmrp.csp (file, size=130602)
+			- ttmwlrs.wbc (file, size=174888)
+			- zhqjt.dwq (file, size=55854)
+			- bmpts (dir)
+				- dmvchsd.ncw (file, size=124846)
+				- mlcmzqdf.pfj (file, size=283278)
+				- qwhmdlf (file, size=312240)
+				- rlfgcqz.jqp (file, size=74910)
+				- plbpr (dir)
+					- dmvchsd.ncw (file, size=37432)
+					- wcqpzpp (dir)
+						- bsfsc.gfs (file, size=18638)
+				- tvrvwv (dir)
+					- tsgp (dir)
+						- wcqpzpp.jdc (file, size=141689)
+			- bpmf (dir)
+				- ftjrpmr.mfd (file, size=201372)
+				- zhqjt.dwq (file, size=178078)
+				- nhtjhsp (dir)
+					- ftjrpmr.mfd (file, size=225213)
+				- qgbg (dir)
+					- cwnphff (file, size=214193)
+					- ftjrpmr.mfd (file, size=296165)
+					- zhqjt.dwq (file, size=260246)
+				- sbqfdzh (dir)
+					- njsfs.rjz (file, size=281546)
+					- qqbsjtp.nbn (file, size=246263)
+					- srllsw (file, size=10231)
+					- qgbg (dir)
+						- dmvchsd.ncw (file, size=92801)
+						- pbz (file, size=66784)
+						- wcqpzpp.vjs (file, size=226132)
+						- wgt.bbw (file, size=242775)
+				- wcqpzpp (dir)
+					- bblss.vzh (file, size=55886)
+					- rlfgcqz (file, size=313619)
+			- brhp (dir)
+				- nnfzrm.mgz (file, size=321184)
+				- rlfgcqz.qbs (file, size=190867)
+			- gzjppjfr (dir)
+				- ftjrpmr.mfd (file, size=67036)
+			- jrd (dir)
+				- dmvchsd.ncw (file, size=293867)
+				- pcpvd.hsg (file, size=10759)
+				- tmwvbl (file, size=268195)
+				- drjbp (dir)
+					- gbhhwlv.rlt (file, size=276381)
+					- zqt.wpc (file, size=252224)
+					- ccdmcgvz (dir)
+						- cffmcz (file, size=4082)
+						- mws.tvb (file, size=31006)
+						- njsfs (dir)
+							- bblss (dir)
+								- lfd (file, size=180561)
+				- njsfs (dir)
+					- qgbg (file, size=115688)
+					- qwhmdlf (file, size=34653)
+				- qfghvhsr (dir)
+					- ssg.ctr (file, size=3280)
+				- thf (dir)
+					- bzhbrlh (dir)
+						- wjtlhwq (file, size=148423)
+					- qgbg (dir)
+						- rrtb (dir)
+							- rlfgcqz (file, size=30387)
+						- slhbmldf (dir)
+							- vszhrc (dir)
+								- qwhmdlf (file, size=235629)
+			- prfz (dir)
+				- bblss (file, size=254587)
+				- dmvchsd.ncw (file, size=321761)
+				- ftjrpmr.mfd (file, size=35369)
+				- rlfgcqz.wsp (file, size=237737)
+				- tbwfsp (file, size=25049)
+				- bmfg (dir)
+					- wcqpzpp.zvw (file, size=275693)
+					- bblss (dir)
+						- lddn (dir)
+							- mqlpwvcg (dir)
+								- zztv (file, size=34635)
+				- bsw (dir)
+					- ljqv (dir)
+						- ftjrpmr.mfd (file, size=119525)
+					- vhpqbw (dir)
+						- twfg.gzb (file, size=154199)
+				- cfjdjcmt (dir)
+					- zhqjt.dwq (file, size=22258)
+				- nqrbhdcn (dir)
+					- fbgqdsn (file, size=84121)
+					- hrjft (file, size=232625)
+					- ltfpl.lsq (file, size=201822)
+					- pgbqncwc.vqq (file, size=194572)
+					- qfgrmw (file, size=43024)
+					- bblss (dir)
+						- jctnwzn.zcq (file, size=326048)
+					- wcqpzpp (dir)
+						- bzjmjng.vhr (file, size=265643)
+						- twfg.gzb (file, size=164876)
+						- wcqpzpp.lzp (file, size=264349)
+						- lwt (dir)
+							- ftjrpmr.mfd (file, size=156024)
+							- lmjwqw (file, size=287930)
+							- qwhmdlf (file, size=56184)
+							- twfg.gzb (file, size=203952)
+							- wcqpzpp (file, size=95508)
+							- qvr (dir)
+								- ndqmn (dir)
+									- njsfs.fvr (file, size=153880)
+						- qgbg (dir)
+							- ftjrpmr.mfd (file, size=244154)
+							- pztf (dir)
+								- njsfs (dir)
+									- dmvchsd.ncw (file, size=268512)
+								- sfrbvhp (dir)
+									- wcqpzpp_10 (dir)
+										- dmvchsd.ncw (file, size=2126)
+							- qgbg_11 (dir)
+								- zhqjt.dwq (file, size=123331)
+							- rlfgcqz (dir)
+								- lflphd.cfn (file, size=4261)
+								- twfg.gzb (file, size=144504)
+								- wcqpzpp.cjr (file, size=110656)
+							- zpvcn (dir)
+								- qgbg (file, size=259119)
+						- vswqzjc (dir)
+							- qgbg (dir)
+								- qwhmdlf (file, size=76795)
+								- zfcwvpz.vrn (file, size=293923)
+								- wcqpzpp_12 (dir)
+									- qwhmdlf (file, size=296986)
+							- rlfgcqz (dir)
+								- rlqrlh (file, size=200095)
+								- dtwv (dir)
+									- bblss.dzm (file, size=306977)
+									- njsfs (file, size=139644)
+								- rfbrzf (dir)
+									- cnb.wdl (file, size=96622)
+					- wvtnznjn (dir)
+						- lvtrqjnv.twq (file, size=320558)
+				- smdsrzlc (dir)
+					- mbfqdbl (dir)
+						- hrhc (dir)
+							- hgbng (file, size=110162)
+			- qgbg (dir)
+				- mrfvnb.zbh (file, size=41978)
+				- rlfgcqz.qlf (file, size=172912)
+			- qjgchtwb (dir)
+				- dmvchsd.ncw (file, size=243299)
+				- jbwss (file, size=91104)
+				- llqnrd.czw (file, size=207317)
+				- znzb.lsj (file, size=145298)
+			- rvqrjms (dir)
+				- twfg.gzb (file, size=40049)
+			- vwgsmc (dir)
+				- qzl (dir)
+					- cspbrpgv.fcc (file, size=324024)
+					- hfdwz.bjq (file, size=8468)
+					- qgbg.lhn (file, size=46755)
+					- qwhmdlf (file, size=247926)
+					- wcqpzpp (file, size=17180)
+					- nvrpj (dir)
+						- vpscvbj (dir)
+							- bvrzrw (file, size=225620)
+					- thtq (dir)
+						- qwhmdlf (file, size=276922)
+						- sshgg.bcf (file, size=59145)
+						- pqqhcl (dir)
+							- vvhlq.bbg (file, size=123067)
+						- wclbp (dir)
+							- djbbpzjz (dir)
+								- wtn.gnz (file, size=5446)
+				- rlfgcqz (dir)
+					- njsfs (dir)
+						- flrr (file, size=178834)
+				- tmpjd (dir)
+					- fnlwgc.rbq (file, size=1973)
+					- njsfs.sgm (file, size=240728)
+					- qgbg.vdc (file, size=51532)
+					- rdvzpf.lld (file, size=330859)
+					- twfdn.vnm (file, size=259561)
+					- qgbg (dir)
+						- bznqvg (file, size=273408)
+						- dmvchsd.ncw (file, size=45710)
+						- jcvn.brh (file, size=306311)
+						- rlfgcqz.crg (file, size=269315)
+						- rnqb.wlt (file, size=51046)
+						- wqfprrd (dir)
+							- zhqjt.dwq (file, size=276417)
+						- zjscb (dir)
+							- bblss.dhl (file, size=276541)
+							- mlsdv (dir)
+								- qwhmdlf (file, size=251030)
+							- njsfs (dir)
+								- cfmfsbc (dir)
+									- zhqjt.dwq (file, size=234880)
+					- sjlq (dir)
+						- nqvnpgs.zhl (file, size=25547)
+					- zlbmf (dir)
+						- pjn.hbf (file, size=21812)
+						- rcgvwrg (dir)
+							- qwhmdlf (file, size=19512)
+				- vqt (dir)
+					- njsfs.zmr (file, size=80263)
+
+
+Total size of dir mrrqnc is 227398
+Total size of dir lvs is 81813
+Total size of dir qst is 234608
+Total size of dir hlltch is 219753
+Total size of dir njsfs is 46895
+Total size of dir wfnpcnr is 46895
+Total size of dir rlfgcqz_1 is 325293
+Total size of dir jqpnnmwc is 631347
+Total size of dir rlfgcqz is 851100
+Total size of dir hdwsmn is 1313106
+Total size of dir rlfgcqz_2 is 278899
+Total size of dir dbvjfgff is 278899
+Total size of dir dnnd is 17486
+Total size of dir wcqpzpp is 195207
+Total size of dir rlfgcqz is 604241
+Total size of dir mldg is 756481
+Total size of dir lmlsvqsw is 1178617
+Total size of dir rlfgcqz is 338274
+Total size of dir sjq is 48652
+Total size of dir bblss is 447009
+Total size of dir hlmm is 607703
+Total size of dir gcwq is 1054712
+Total size of dir jmmltt is 130686
+Total size of dir zgcjl is 318547
+Total size of dir bdsvzhbm is 449233
+Total size of dir lvvztw is 726589
+Total size of dir wjp is 875607
+Total size of dir msrdg is 875607
+Total size of dir bblss_3 is 186733
+Total size of dir tjbrtt is 284955
+Total size of dir njsfs is 284955
+Total size of dir rfmsdjr is 291669
+Total size of dir wcqpzpp is 291669
+Total size of dir ffqghmp is 291669
+Total size of dir zvnjrnrw is 28990
+Total size of dir njsfs is 439280
+Total size of dir dmcmw is 1724439
+Total size of dir gbpqj is 128158
+Total size of dir fsq is 156862
+Total size of dir wfvqv is 290347
+Total size of dir qgbg is 2551894
+Total size of dir bblss is 3391112
+Total size of dir ncgljn is 4200628
+Total size of dir fmbsgvr is 111460
+Total size of dir qtdf is 111460
+Total size of dir brthfcm is 135591
+Total size of dir njsfs_4 is 18629
+Total size of dir qqgh is 289243
+Total size of dir scsllc is 699060
+Total size of dir dhmwcmf is 810520
+Total size of dir tcqnf is 610198
+Total size of dir qgbg is 188576
+Total size of dir zlb is 188576
+Total size of dir psqnghl is 734611
+Total size of dir fmzhtfd is 1181885
+Total size of dir gqsg is 463703
+Total size of dir jrctzlg is 293573
+Total size of dir lrnzq is 526505
+Total size of dir wcqpzpp_5 is 365472
+Total size of dir gfs is 1590709
+Total size of dir bcwnrc is 289013
+Total size of dir wznlzpzj is 289013
+Total size of dir cpr is 404545
+Total size of dir qgbg is 1135669
+Total size of dir wcqpzpp is 3580048
+Total size of dir dtddhqbj is 5262618
+Total size of dir njsfs_6 is 424282
+Total size of dir htjd is 216650
+Total size of dir rlfgcqz is 144834
+Total size of dir wcqpzpp is 133476
+Total size of dir slgztr is 738711
+Total size of dir pgfrd is 738711
+Total size of dir hbp is 455598
+Total size of dir tbjp is 76200
+Total size of dir njsfs_7 is 383627
+Total size of dir rlfgcqz is 294331
+Total size of dir jqfhdn is 1018050
+Total size of dir sblj is 41456
+Total size of dir qnpdnjdl is 41456
+Total size of dir rdmj is 213965
+Total size of dir qgbg is 255421
+Total size of dir nznzzw is 115971
+Total size of dir vlfdtwj is 167648
+Total size of dir hqbthjc is 542937
+Total size of dir zmpm is 297930
+Total size of dir hztrwjr is 297930
+Total size of dir dfzcrmt is 1105541
+Total size of dir qdvppt is 323419
+Total size of dir qgbg is 158408
+Total size of dir ffpvbczr is 481827
+Total size of dir rptmp is 280342
+Total size of dir vsvj is 2366981
+Total size of dir bblss_8 is 1570
+Total size of dir gtbbfzzn is 65850
+Total size of dir wcqpzpp is 62362
+Total size of dir wvnjtmt is 379112
+Total size of dir zlj is 267677
+Total size of dir ghfc is 131979
+Total size of dir njsfs_9 is 126387
+Total size of dir zwqff is 258366
+Total size of dir tftrnfpd is 4265051
+Total size of dir zppjlf is 241176
+Total size of dir shhzzrf is 6235296
+Total size of dir wjv is 12785886
+Total size of dir dtwcsvzf is 74858
+Total size of dir lnhzzl is 74858
+Total size of dir zwlpqrb is 817963
+Total size of dir bblss is 15456338
+Total size of dir bzlpqv is 743157
+Total size of dir rlfgcqz is 759217
+Total size of dir wcqpzpp is 759217
+Total size of dir cvm is 1428131
+Total size of dir bblss is 102201
+Total size of dir rlfgcqz is 168752
+Total size of dir dbbngm is 624404
+Total size of dir gbtmsjgl is 207664
+Total size of dir njsfs is 18683894
+Total size of dir wcqpzpp is 18638
+Total size of dir plbpr is 56070
+Total size of dir tsgp is 141689
+Total size of dir tvrvwv is 141689
+Total size of dir bmpts is 993033
+Total size of dir nhtjhsp is 225213
+Total size of dir qgbg is 770604
+Total size of dir qgbg is 628492
+Total size of dir sbqfdzh is 1166532
+Total size of dir wcqpzpp is 369505
+Total size of dir bpmf is 2911304
+Total size of dir brhp is 512051
+Total size of dir gzjppjfr is 67036
+Total size of dir bblss is 180561
+Total size of dir njsfs is 180561
+Total size of dir ccdmcgvz is 215649
+Total size of dir drjbp is 744254
+Total size of dir njsfs is 150341
+Total size of dir qfghvhsr is 3280
+Total size of dir bzhbrlh is 148423
+Total size of dir rrtb is 30387
+Total size of dir vszhrc is 235629
+Total size of dir slhbmldf is 235629
+Total size of dir qgbg is 266016
+Total size of dir thf is 414439
+Total size of dir jrd is 1885135
+Total size of dir mqlpwvcg is 34635
+Total size of dir lddn is 34635
+Total size of dir bblss is 34635
+Total size of dir bmfg is 310328
+Total size of dir ljqv is 119525
+Total size of dir vhpqbw is 154199
+Total size of dir bsw is 273724
+Total size of dir cfjdjcmt is 22258
+Total size of dir bblss is 326048
+Total size of dir ndqmn is 153880
+Total size of dir qvr is 153880
+Total size of dir lwt is 953478
+Total size of dir njsfs is 268512
+Total size of dir wcqpzpp_10 is 2126
+Total size of dir sfrbvhp is 2126
+Total size of dir pztf is 270638
+Total size of dir qgbg_11 is 123331
+Total size of dir rlfgcqz is 259421
+Total size of dir zpvcn is 259119
+Total size of dir qgbg is 1156663
+Total size of dir wcqpzpp_12 is 296986
+Total size of dir qgbg is 667704
+Total size of dir dtwv is 446621
+Total size of dir rfbrzf is 96622
+Total size of dir rlfgcqz is 743338
+Total size of dir vswqzjc is 1411042
+Total size of dir wcqpzpp is 4216051
+Total size of dir wvtnznjn is 320558
+Total size of dir nqrbhdcn is 5618821
+Total size of dir hrhc is 110162
+Total size of dir mbfqdbl is 110162
+Total size of dir smdsrzlc is 110162
+Total size of dir prfz is 7209796
+Total size of dir qgbg is 214890
+Total size of dir qjgchtwb is 687018
+Total size of dir rvqrjms is 40049
+Total size of dir vpscvbj is 225620
+Total size of dir nvrpj is 225620
+Total size of dir pqqhcl is 123067
+Total size of dir djbbpzjz is 5446
+Total size of dir wclbp is 5446
+Total size of dir thtq is 464580
+Total size of dir qzl is 1334553
+Total size of dir njsfs is 178834
+Total size of dir rlfgcqz is 178834
+Total size of dir wqfprrd is 276417
+Total size of dir mlsdv is 251030
+Total size of dir cfmfsbc is 234880
+Total size of dir njsfs is 234880
+Total size of dir zjscb is 762451
+Total size of dir qgbg is 1984658
+Total size of dir sjlq is 25547
+Total size of dir rcgvwrg is 19512
+Total size of dir zlbmf is 41324
+Total size of dir tmpjd is 2936182
+Total size of dir vqt is 80263
+Total size of dir vwgsmc is 4529832
+Total size of dir ptncs is 19733115
+Total size of dir tpnspw is 45811471
+Total size of dir / is 48690120
+
+Sum of total sizes of dirs with a total size of at most 100000 is: 1348005
+
+Process finished with exit code 0
